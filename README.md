@@ -13,6 +13,13 @@ Full Stack Engineer with 3.5+ years of experience, currently expanding into <b>m
 </p>
 
 ---
+🔬 **Research interest:** Trustworthy RAG systems for medical question answering — reducing hallucination through retrieval grounding and confidence-aware responses
+
+💼 **Open to:** Full-time / part-time full-stack roles · Research collaborations in AI/medical NLP
+
+### 📚 Currently exploring
+- Rationale-Guided Retrieval Augmented Generation for Medical Question Answering
+- Techniques for hallucination detection in domain-specific LLM applications
 
 ### 🔧 Tech Stack & Skills
 
@@ -68,9 +75,9 @@ Full Stack Engineer with 3.5+ years of experience, currently expanding into <b>m
 
 ### 📄 Featured Work
 
--  **[AI Document Q&A Assistant](https://github.com/FatimaSagheer/YOUR-REPO-NAME)**
+-  **[AI Document Q&A Assistant](https://github.com/FatimaSagheer/document-intelligence-platform)**
   RAG-based document Q&A system — document ingestion, chunking, vector embeddings, and source-grounded answer generation using the OpenAI API.
-
+  
 -  **[SolarIQ](https://github.com/FatimaSagheer/SolarIQ)**
   Real-time IoT solar monitoring platform (MEAN stack) with WebSocket live data visualization, JWT auth, and automated alerting.
 
@@ -99,6 +106,12 @@ Full Stack Engineer with 3.5+ years of experience, currently expanding into <b>m
 - **HTML/CSS** — TestDome (Mar 2022)
 - **[Introduction to Cybersecurity](https://coursera.org/share/e663faf3cdde7245e44856d43acaddf2)** — Coursera (Apr 2023)
 
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FatimaSagheer&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaSagheer&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
 
 ### 📫 Reach Me
 
