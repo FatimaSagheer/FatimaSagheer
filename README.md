@@ -68,24 +68,23 @@ Full Stack Engineer with 3.5+ years of experience, currently expanding into <b>m
 
 ### 📄 Featured Work
 
-- 🩺 **[AI Document Q&A Assistant](https://github.com/FatimaSagheer/YOUR-REPO-NAME)**
+-  **[AI Document Q&A Assistant](https://github.com/FatimaSagheer/YOUR-REPO-NAME)**
   RAG-based document Q&A system — document ingestion, chunking, vector embeddings, and source-grounded answer generation using the OpenAI API.
 
-- ⚡ **[SolarIQ](https://github.com/FatimaSagheer/SolarIQ)**
+-  **[SolarIQ](https://github.com/FatimaSagheer/SolarIQ)**
   Real-time IoT solar monitoring platform (MEAN stack) with WebSocket live data visualization, JWT auth, and automated alerting.
 
-- ✅ **[TaskFlow](https://glistening-stillness-production-4cb2.up.railway.app/)**
+-  **[TaskFlow](https://glistening-stillness-production-4cb2.up.railway.app/)**
   Full-stack task management app with authentication and real-time status updates — deployed live on Railway.
 
 ---
 ### 🏆 Achievements
 
-- 📉 Reduced frontend bugs by **15%** through enforced code review standards (SkyElectric)
-- ⚡ Improved dashboard performance by **45%** via change detection strategy and API optimization
-- 🧹 Reduced maintenance effort by **30%** by refactoring legacy Angular codebase into modular architecture
-- 🚀 Delivered a production RAG application with JWT-secured endpoints and source-grounded AI responses
+-  Reduced frontend bugs by **15%** through enforced code review standards (SkyElectric)
+-  Improved dashboard performance by **45%** via change detection strategy and API optimization
+-  Reduced maintenance effort by **30%** by refactoring legacy Angular codebase into modular architecture
+-  Delivered a production RAG application with JWT-secured endpoints and source-grounded AI responses
 
-  ### 🎓 Certifications
 
 ### 🎓 Certifications
 
@@ -100,14 +99,6 @@ Full Stack Engineer with 3.5+ years of experience, currently expanding into <b>m
 - **HTML/CSS** — TestDome (Mar 2022)
 - **[Introduction to Cybersecurity](https://coursera.org/share/e663faf3cdde7245e44856d43acaddf2)** — Coursera (Apr 2023)
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FatimaSagheer&show_icons=true&theme=default&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaSagheer&layout=compact&hide_border=true" width="48%"/>
-</p>
-
----
 
 ### 📫 Reach Me
 
