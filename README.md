@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Full Stack Engineer with 3.5+ years of experience, currently expanding into <b>medical AI and NLP research</b>, focused on trustworthy Retrieval-Augmented Generation (RAG) for healthcare question answering.
+Full Stack Engineer with 4.5+ years of experience, currently expanding into <b>medical AI and NLP research</b>, focused on trustworthy Retrieval-Augmented Generation (RAG) for healthcare question answering.
 </p>
 
 <p align="center">
