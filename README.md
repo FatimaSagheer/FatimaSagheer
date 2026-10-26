@@ -15,12 +15,13 @@ Software Engineer with 4+ years of experience, now moving into <b>AI and NLP res
 ---
 🔬 **Research interests:** Trustworthy RAG for medical question answering, reducing hallucination through retrieval grounding and confidence-aware responses · Representation learning and multimodal AI · LLMs and vision-language models
 
-🎓 **Looking for:** MS/PhD research opportunities in AI/NLP (Fall 2027) · Research collaborations in AI/medical NLP · Open to full-stack roles
+🎓 **Looking for:** MS/PhD research opportunities in AI/NLP (Fall 2027) · Research collaborations in AI/medical NLP
 
 ### 📚 Currently exploring
 - Rationale-Guided Retrieval Augmented Generation for Medical Question Answering
 - Techniques for hallucination detection in domain-specific LLM applications
 - Retrieval support for a low-resource language (Urdu)
+- Building a small evaluation set for my RAG system (groundedness of answers, citation accuracy, failure cases)
 - **System Design Masterclass (Cohort 7) by Umer Farooq**: 4 of 8 live sessions completed (scalable architecture, caching, load balancing, databases and distributed systems), with weekly assignments and a capstone project to follow
 
 ### 🔧 Tech Stack & Skills
@@ -108,15 +109,6 @@ Software Engineer with 4+ years of experience, now moving into <b>AI and NLP res
 - **Big Data 101** — Cognitive Class (Sep 2026)
 - **Python Essentials 1** — Cisco Networking Academy (Jul 2026)
 - **Claude 101** — Claude Academy by Anthropic (Sep 2026)
-- **[Full-Stack Engineer Career Path](https://www.codecademy.com/profiles/FatimaSagheer/certificates/5f7e644d833c070013ef47c4)** — Codecademy (Nov 2023)
-- **Junior Full Stack Developer (MERN)** — Generation Pakistan (Aug 2023)
-- **[Angular (Intermediate)](https://www.hackerrank.com/certificates/iframe/1f3dfba5c49b)** — HackerRank (Jul 2026)
-- **[Angular (Basic)](https://www.hackerrank.com/certificates/iframe/ca2845bf2672)** — HackerRank
-- **[Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/86fadddada12)** — HackerRank (Jan 2026)
-- **[React: Working with APIs](https://www.linkedin.com/learning/certificates/0c811c4ea06bc405fb7e5349793833fd9e5dc858479fb9931503be864afacfda/)** — LinkedIn Learning
-- **[React Basic](https://www.coursera.org/account/accomplishments/verify/7Y4MXDXYFDXK)** — Coursera (May 2023)
-- **[JavaScript](http://www.testdome.com/certificates/d6961e922189461b9d0e7c5d0ef45373)** — TestDome (May 2023)
-- **HTML/CSS** — TestDome (Mar 2022)
 - **[Introduction to Cybersecurity](https://coursera.org/share/e663faf3cdde7245e44856d43acaddf2)** — Coursera (Apr 2023)
 
 ### 📊 GitHub Stats
